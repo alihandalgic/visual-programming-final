@@ -1,0 +1,76 @@
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe.config
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.pdb
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\MySqlConnector.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Buffers.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Memory.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\MySqlConnector.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Buffers.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Memory.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.AssemblyReference.cache
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Form1.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Properties.Resources.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.GenerateResource.cache
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.CoreCompileInputs.cache
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.CopyComplete
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.exe
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.pdb
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.AnaEkran.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Güncelle.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.UyeEkle.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Ödemeler.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Üyeler.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Kayit.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Giris.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Gelisim.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.UyeEkran.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman2.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman3.resources
+C:\Users\aliha\Desktop\görsel-final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Hesabım.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe.config
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\SporSalonu.pdb
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\MySqlConnector.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Buffers.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Memory.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\MySqlConnector.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Buffers.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Memory.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.AssemblyReference.cache
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.AnaEkran.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman2.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman3.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Form1.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Gelisim.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Giris.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Antreman.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Güncelle.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Kayit.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Properties.Resources.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.UyeEkle.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.UyeEkran.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Ödemeler.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Üyeler.resources
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.GenerateResource.cache
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.CoreCompileInputs.cache
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.CopyComplete
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.exe
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.pdb
+C:\Users\aliha\Desktop\Alihan Dalgıç Görsel Final\SporSalonu\SporSalonu\obj\Debug\SporSalonu.GrupDers.resources
